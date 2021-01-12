@@ -1,3 +1,4 @@
 # hello-world
 This is my first GitHub repository!
-testing branches
+im just testing out the branch and commit thing-y
+im from lebanon btw
